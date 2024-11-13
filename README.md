@@ -233,4 +233,6 @@
 
 [_Exercício 115_](https://github.com/luamdrs/Exercicios_Python/tree/main/Exercicios_Python/Exercicio_115.py) - Criando um Menu (Cadastro de Pessoas) em Python - Projeto Final
 
-Curso ministrado pelo Professor **Gustavo Guanabara**
+#
+
+_Curso ministrado pelo Professor **Gustavo Guanabara - Curso em Vídeo**_
